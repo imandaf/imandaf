@@ -10,4 +10,4 @@ I'm a Android Engineer
 
 ### Github Stats
 
-[![Saiful Bahri's Github Stats](https://github-readme-stats.vercel.app/api?username=imandaf&count_private=true&theme=default&show_icons=true)](https://github.com/imandaf)
+[![Imanda Fachruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imandaf&count_private=true&theme=default&show_icons=true)](https://github.com/imandaf)
