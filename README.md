@@ -8,6 +8,6 @@ I'm a Android Engineer
 - 💬 Ask me about [Android](https://developer.android.com/) and [Kotlin](https://kotlinlang.org/)).
 - ⚡ Fun fact: never ending learning
 
-### Github Stats
+### Github Stats 
 
 [![Imanda Fachruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imandaf&count_private=true&theme=default&show_icons=true)](https://github.com/imandaf)
