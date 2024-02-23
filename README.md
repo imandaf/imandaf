@@ -6,8 +6,8 @@ I'm a Android Engineer
 - ☕ My hobby is cycling
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Android](https://developer.android.com/) and [Kotlin](https://kotlinlang.org/)).
-- ⚡ Fun fact: never ending learning
+- ⚡ Fun fact: Never Ending Learning
 
 ### Github Stats 
 
-[![Imanda Fachruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imandaf&count_private=true&theme=default&show_icons=true)](https://github.com/imandaf)
+[![Imanda Fachruddin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imandaf&hide=contribs&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/imandaf)
